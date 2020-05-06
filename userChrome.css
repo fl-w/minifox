@@ -1,5 +1,5 @@
-@import url('file:///home/folws/.cache/wal/colors.css');
-/* @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); */
+@import url('file://${HOME}/.cache/wal/colors.css');
+
 
 window#main-window {
 
