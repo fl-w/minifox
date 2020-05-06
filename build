@@ -1,0 +1,3 @@
+#!/bin/bash
+
+envsubst < userChrome.template.css > userChrome.css
